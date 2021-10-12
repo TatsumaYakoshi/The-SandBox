@@ -1,0 +1,28 @@
+[BEGIN]
+
+-Made by TatsumaYakoshi
+
+The Sandbox Modded Save:
+
+Load game at least Once & Close before Patching
+
+(Needs ROOT)
+
+Features:
+
+Infinite Mana
+
+All Elements Unlocked
+
+https://YouTube.com/TatsumaYakoshi
+
+https://Insstagram.com/TatsumaYakoshi
+
+[COPY_FILE]
+{"file_name":"profile.dat"}
+
+{"to":"sdcard/Android/data/com.pixowl.thesandbox.android/files/profile.dat"}
+
+[END]
+
+Save Edited Enjoy 
